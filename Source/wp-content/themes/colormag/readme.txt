@@ -50,6 +50,22 @@ and we will include it within the theme from next version update.
 /**********************************************************/
 
 == Changelog ==
+= Version 1.3.8 - 2019-03-26 =
+* Fix - Upload Theme button not working
+
+= Version 1.3.7 - 2019-03-19 =
+* Tweak - Remove import button from site library for pro themes.
+* Update - BxSlider to 4.2.15
+
+= Version 1.3.6 - 2019-03-01 =
+* Tweak - Added site library and demo import process in About ColorMag page.
+* Tweak - Modify pingback url autodiscovery for single posts, pages, or attachments.
+* Tweak - separate customize control class via different file.
+
+= Version 1.3.5 - 2019-01-16 =
+* Update - StickyJS library to 1.0.4
+* Update - Magnific Popup library to 1.1.0
+
 = Version 1.3.4 - 2018-12-07 =
 * Recommend - Zakra Gutenberg ready theme
 * Fix - Gallery padding for Gutenberg

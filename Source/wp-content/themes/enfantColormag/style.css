@@ -1,7 +1,11 @@
 /*
 Theme Name: enfantColormag
-Description: Theme enfant de Quentin
-Author: Quentin - TechNews
+Description: Theme enfant pour site TechNews
+Author: Francis - TechNews
 Template: colormag 
 Version: 0.1.0
 */
+
+h1 {
+    text-align: center;
+}

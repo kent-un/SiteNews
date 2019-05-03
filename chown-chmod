@@ -1,0 +1,3 @@
+
+sudo chown www-data:www-data /home/gen-004/Documents/TRAVAIL/DEV/SiteNews/Source -R
+sudo chmod -R -wx,u+rwX,g+rX,o+rX /home/gen-004/Documents/TRAVAIL/DEV/SiteNews/Source

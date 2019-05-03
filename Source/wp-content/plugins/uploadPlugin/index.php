@@ -3,7 +3,7 @@
   Plugin Name: Upload Plugin
   description: A simple custom plugin to file upload
   Version: 1.0.0
-  Author: Quentin Dherret
+  Author: Francis Yang
 */
 
 // Add menu
@@ -16,7 +16,7 @@ function customplugin_menu() {
 add_action("admin_menu", "customplugin_menu");
 
 function uploadfile(){
-  include "uploadfile.php";
+  include 'uploadfile.php';
 }
 
 add_shortcode('download', 'uploadfile');
